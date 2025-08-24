@@ -82,7 +82,6 @@
 - 🏗️ Flutter frontend with clean architecture & state management  
 - 📱 Responsive UI/UX for mobile & web  
 
-
 🔗 [View Project on GitHub](https://github.com/Siamoo/My_Market)
 
 ---
