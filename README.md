@@ -10,7 +10,7 @@
 ---
 
 # 💫 About Me  
-🚀 Flutter Developer with solid experience in building scalable and high-performance mobile applications. <br/>  
+🚀 Flutter Developer with solid experience in building scalable and high-performance mobile apps. <br/>  
 💡 Skilled in clean architecture, state management, and modern app development practices. <br/>  
 🔥 Experienced in both UI/UX design and backend integration (Firebase, Supabase, REST APIs, Flask). <br/>  
 🎯 Passionate about continuous learning and delivering real-world solutions with elegant designs.  
