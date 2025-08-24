@@ -69,7 +69,7 @@
 
 ---
 
-## 🌟 Featured Project  
+## 🌟 Featured Projects
 
 ### 🌱 NabaTC – Smart Farming Assistant App  
 
