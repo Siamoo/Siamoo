@@ -39,9 +39,11 @@
 ### 🏗️ Backend & APIs  
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
+
 
 ### 🗄️ Databases  
 <p>
@@ -70,7 +72,6 @@
 
 
 # 📊 GitHub Stats  
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Siamoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
