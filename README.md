@@ -71,6 +71,27 @@
 
 ## 🌟 Featured Project  
 
+### 🌱 NabaTC – Smart Farming Assistant App  
+
+**NabaTC** is a cross-platform mobile application that helps farmers and agricultural students by detecting plant diseases using **AI** and providing treatment suggestions.  
+
+#### 🔑 Key Features  
+- 🤖 **AI-powered plant disease detection** using the **Xception deep learning model**  
+- 🔐 **User authentication** via Firebase (with Facebook Login support)  
+- 📝 Scan history, notes, and community Q&A features  
+- 🌐 **Backend integration** with Node.js (API layer), Flask (AI model hosting), and MongoDB  
+- 📲 Intuitive **Flutter UI/UX** with a farmer-friendly design  
+
+#### 🛠️ Tech Stack  
+- **Frontend**: Flutter, Dart  
+- **Backend**: Node.js (API), Flask (ML model)  
+- **Database**: MongoDB, Hive (local storage)  
+- **Authentication**: Firebase (with social login)  
+- **ML Model**: Xception (deep learning for image classification)  
+
+🔗 [View Project on GitHub](https://github.com/Siamoo/NabaTC)
+
+
 ### 🛒 My Market – Supabase-Powered E-commerce App  
 
 **My Market** – A full-stack Flutter e-commerce application featuring **Supabase** as the backend for authentication and real-time data management.  
@@ -83,6 +104,7 @@
 - 📱 Responsive UI/UX for mobile & web  
 
 🔗 [View Project on GitHub](https://github.com/Siamoo/My_Market)
+
 
 ---
 
