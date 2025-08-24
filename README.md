@@ -9,15 +9,15 @@
 
 ---
 
-# 💫 About Me
-🚀 Flutter Developer with solid experience in building scalable and high-performance mobile applications. <br/>
-💡 Skilled in clean architecture, state management, and modern app development practices. <br/>
-🔥 Experienced in both UI/UX design and backend integration (Firebase, REST APIs, Flask). <br/>
+# 💫 About Me  
+🚀 Flutter Developer with solid experience in building scalable and high-performance mobile applications. <br/>  
+💡 Skilled in clean architecture, state management, and modern app development practices. <br/>  
+🔥 Experienced in both UI/UX design and backend integration (Firebase, Supabase, REST APIs, Flask). <br/>  
 🎯 Passionate about continuous learning and delivering real-world solutions with elegant designs.  
 
 ---
 
-## 💻 Tech Stack   
+## 💻 Tech Stack  
 
 ### 🖥️ Programming Languages  
 <p>
@@ -44,7 +44,6 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
 
-
 ### 🗄️ Databases  
 <p>
   <img alt="Hive" src="https://img.shields.io/badge/-Hive-F5C400?style=flat-square&logo=hive&logoColor=black" />
@@ -70,6 +69,23 @@
 
 ---
 
+## 🌟 Featured Project  
+
+### 🛒 My Market – Supabase-Powered E-commerce App  
+
+**My Market** – A full-stack Flutter e-commerce application featuring **Supabase** as the backend for authentication and real-time data management.  
+
+#### **Highlights**
+- 🔐 User authentication (sign-up, login, session management)  
+- 📦 Real-time product listing & inventory updates  
+- 🖼️ Supabase Storage for product images  
+- 🏗️ Flutter frontend with clean architecture & state management  
+- 📱 Responsive UI/UX for mobile & web  
+
+
+🔗 [View Project on GitHub](https://github.com/Siamoo/My_Market)
+
+---
 
 # 📊 GitHub Stats  
 <div align="center">
@@ -106,4 +122,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
