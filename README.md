@@ -74,7 +74,6 @@
 ### 🌱 NabaTC – Smart Farming Assistant App  
 
 **NabaTC** is a cross-platform mobile application that helps farmers and agricultural students by detecting plant diseases using **AI** and providing treatment suggestions.  
-
 #### 🔑 Key Features  
 - 🤖 **AI-powered plant disease detection** using the **Xception deep learning model**  
 - 🔐 **User authentication** via Firebase (with Facebook Login support)  
