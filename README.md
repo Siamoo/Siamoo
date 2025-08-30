@@ -13,7 +13,7 @@
 🚀 Flutter Developer with solid experience in building scalable and high-performance mobile apps. <br/>  
 💡 Skilled in clean architecture, state management, and modern app development practices. <br/>  
 🔥 Experienced in both UI/UX design and backend integration (Firebase, Supabase, REST APIs, Flask). <br/>  
-💳 Able to integrate and work with different payment methods in Flutter projects. <br/>  
+💳 Able to integrate and work with different payment methods in Flutter projects(Paymob, Stripe, PayPal, etc.). <br/>  
 🎯 Passionate about continuous learning and delivering real-world solutions with elegant designs.  
 
 ---
