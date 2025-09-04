@@ -117,7 +117,8 @@
 - 📦 Real-time product listing & inventory updates  
 - 🖼️ Supabase Storage for product images  
 - 🏗️ Flutter frontend with clean architecture & state management  
-- 📱 Responsive UI/UX for mobile & web  
+- 📱 Responsive UI/UX for mobile & web
+- 📊 Admin Dashboard for managing products, inventory, and users
 
 🔗 [View Project on GitHub](https://github.com/Siamoo/My_Market)
 
