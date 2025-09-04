@@ -113,10 +113,11 @@
 **My Market** – A full-stack Flutter e-commerce application featuring **Supabase** as the backend for authentication and real-time data management. 
 
 #### **Highlights**
-- 🔐 User authentication (sign-up, login, session management)  
+- 🔐 Supabase User authentication (sign-up, login, session management) 
+- 🖼️ Supabase Storage (users, products, favorites, purchase, comments, rates)
 - 📦 Real-time product listing & inventory updates  
-- 🖼️ Supabase Storage for product images  
-- 🏗️ Flutter frontend with clean architecture & state management  
+- 🏗️ Flutter using Cubit state management & REST APIs
+- 💳 Payment Integrated with Paymob 
 - 📱 Responsive UI/UX for mobile & web
 - 📊 Admin Dashboard for managing products, inventory, and users
 
