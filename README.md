@@ -105,6 +105,8 @@
 - **ML Model**: Xception (deep learning for image classification)  
 
 🔗 [View Project on GitHub](https://github.com/Siamoo/NabaTC)
+🔗 [View Project presentation](https://github.com/Siamoo/NabaTC)
+
 
 
 
@@ -122,6 +124,8 @@
 - 📊 Admin Dashboard for managing products, inventory, and users
 
 🔗 [View Project on GitHub](https://github.com/Siamoo/My_Market)
+🔗 [View dashboard on GitHub](https://github.com/Siamoo/My_Market)
+
 
 
 ---
