@@ -124,7 +124,7 @@
 - 📊 Admin Dashboard for managing products, inventory, and users
 
 🔗 [View Project on GitHub](https://github.com/Siamoo/My_Market)
-🔗 [View dashboard on GitHub](https://github.com/Siamoo/My_Market)
+🔗 [View dashboard on GitHub](https://github.com/Siamoo/My_Market_Admin)
 
 
 
