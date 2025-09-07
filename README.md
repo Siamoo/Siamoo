@@ -105,7 +105,7 @@
 - **ML Model**: Xception (deep learning for image classification)  
 
 🔗 [View Project on GitHub](https://github.com/Siamoo/NabaTC)
-🔗 [View Project presentation](https://github.com/Siamoo/NabaTC)
+🔗 [View Project presentation](https://drive.google.com/file/d/1xMQQmKoerCD42DDhKVBmDlcRoVAiWpVJ/view?usp=drive_link)
 
 
 
