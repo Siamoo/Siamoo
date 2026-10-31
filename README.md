@@ -132,10 +132,9 @@
 # 📊 GitHub Stats  
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=Siamoo&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siamoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=siamoo&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
 
-</div>
+<br/><br/>
 
 ---
 
