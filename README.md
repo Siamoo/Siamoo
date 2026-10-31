@@ -132,7 +132,7 @@
 # 📊 GitHub Stats  
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=siamoo&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=siamoo&theme=tokyonight&hide_border=true&border_radius=10" width="100%"/>
 
 <br/><br/>
 
